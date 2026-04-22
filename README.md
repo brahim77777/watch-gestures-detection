@@ -105,11 +105,8 @@ The full circuit (ESP32 + IMU sensor wiring) is defined in `diagram.json` and si
 
 ## 📊 Gestures Detected
 
-| Gesture | Description |
-|---------|-------------|
-| *(e.g., shake)* | Rapid lateral movement |
-| *(e.g., twist)* | Wrist rotation gesture |
-| *(e.g., still)* | No movement / idle state |
+<Figure size 1200x800 with 4 Axes><img width="1189" height="790" alt="image" src="https://github.com/user-attachments/assets/af998112-ed2e-4d66-a00f-6ad6b54204fa" />
+
 
 > *Update this table with the actual gesture classes from your trained model.*
 
